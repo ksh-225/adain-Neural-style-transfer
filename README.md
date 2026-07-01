@@ -1,1 +1,1 @@
-# adain-Neural-style-transfer
+# ai-nst-project
